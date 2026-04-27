@@ -8,3 +8,4 @@ Code repository for UbiComp 2026 submission. Includes signal processing scripts,
 - **denoising.m**: Normalization and denoising of demodulated data
 - **EM T-UNet/**: Network configuration and evaluation code
 - **samples/**: Reconstructed audio samples
+- **vedio.mp4**: Demo vedio
